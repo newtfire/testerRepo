@@ -1,0 +1,18 @@
+	body {
+      background-color: aqua;/* #e6e6e6*/; /*#C5D3D3*/ /*#B4D6B4*/
+     /*trying different shades of grey-green */
+      color: #031B3F; 
+      font-family: arial, helvetica, sans-serif; 
+      padding:15px; 
+      line-height:1.4em
+      }
+      
+  figure {width: 50%;
+  background-color: purple;
+  }
+    
+img {width: 40%;}
+
+figcaption {color: yellow; }
+      
+      
